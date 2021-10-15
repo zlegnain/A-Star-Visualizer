@@ -4,7 +4,6 @@
  * Node will keep track of its parent Node, f-cost, g-cost, and heuristic cost
  *
  * @author Zakariya Legnain
- * @version 1.0, 10/14/2021
  */
 
 
@@ -107,6 +106,8 @@ public class Node {
     public void setWall(boolean wall) {
         this.wall = wall;
     }
+
+
 
 
 }
